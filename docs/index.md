@@ -51,7 +51,7 @@ The papers that will be discussed are / will be listed on the course website. As
 * The Stanford "cs224n: Natural Language Processing with Deep Learning" class materials: <http://web.stanford.edu/class/cs224n/>
 * The Stanford "CS231n: Convolutional Neural Networks for Visual Recognition class materias: <http://cs231n.stanford.edu>.
 
-The `sempix` framework for working with language & vision data can be found in a separate repository: .....
+The `sempix` framework for working with language & vision data can be found in [a separate repository](https://github.com/clp-research/sempix).
 
 
 
