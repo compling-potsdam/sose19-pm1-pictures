@@ -8,8 +8,8 @@ nav_order: 2
 
 | Week | Date | Topic  | Material |
 |:------:|:------:|-----------|------|
-01 | 2019-04-11 | Introduction: Images as Models  |
-02 | 2019-04-18 | Introduction: Corpora, Tasks |
+01 | 2019-04-11 | [Introduction: Images as Models](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/01)  |
+02 | 2019-04-18 | [Introduction: Image Corpora](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/02) |
 03 | 2019-04-25 | Introduction: Tasks |
 04 | 2019-05-02 | *no class, travel* |
 05 | 2019-05-09 |  |
