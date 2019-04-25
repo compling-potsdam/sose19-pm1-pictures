@@ -10,7 +10,7 @@ nav_order: 2
 |:------:|:------:|-----------|------|
 01 | 2019-04-11 | [Introduction: Images as Models](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/01)  |
 02 | 2019-04-18 | [Introduction: Image Corpora](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/02) |
-03 | 2019-04-25 | Introduction: Tasks; Homework Analysis Projects |
+03 | 2019-04-25 | [Introduction: Tasks; Homework Analysis Projects]((https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/03)) |
 04 | 2019-05-02 | *no class, travel* |
 05 | 2019-05-09 | Presentations Analyses; Homework WAC; |
 06 | 2019-05-16 | Presentations WACs; Intro / Background Models (ConvNets); Preview Projects |
