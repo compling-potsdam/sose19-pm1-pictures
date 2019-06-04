@@ -12,9 +12,9 @@ nav_order: 2
 02 | 2019-04-18 | Introduction: Image Corpora | [M02](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/02) |
 03 | 2019-04-25 | Introduction: Tasks; Homework Analysis Projects | [M03](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/03) |
 04 | 2019-05-02 | *no class, travel* | |
-05 | 2019-05-09 | Presentations Analyses | [M04]((https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/04)) |
-06 | 2019-05-16 | Presentations Analyses; WAC | [M05]((https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/05)) |
-07 | 2019-05-23 | Intro / Background Models (ConvNets); Preview Projects | [M06]((https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/06)) |
+05 | 2019-05-09 | Presentations Analyses | [M04](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/04) |
+06 | 2019-05-16 | Presentations Analyses; WAC | [M05](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/05) |
+07 | 2019-05-23 | Intro / Background Models (ConvNets); Preview Projects | [M06](https://github.com/compling-potsdam/sose19-pm1-pictures/blob/master/material/06) |
 08 | 2019-05-30 | *no class, holiday* | |
 09 | 2019-06-06 | Presentations Models, I | |
 10 | 2019-06-13 | Presentations Models, II | |
